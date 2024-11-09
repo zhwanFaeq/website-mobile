@@ -12,7 +12,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "dbproject";
+$dbname = "prozha";
 
 //creat connection
 $conn = mysqli_connect("localhost","root","","prozha");
